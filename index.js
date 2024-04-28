@@ -42,3 +42,5 @@ sequelize
   .catch((error) => {
     console.error('Unable to connect to the database:', error);
   });
+
+  //jdjncjinej n kjvnkjneiljbwe
